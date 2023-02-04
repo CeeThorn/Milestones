@@ -15,8 +15,8 @@
 <h1>Name: Chauncey J. Thornton Major:Computer Science </h1>
 
 <div class="Div">
-  <h2>This is heading 2</h2>
-<h3>This is heading 3</h3>
+  <h2>Education:St. Johns University </h2>
+<h3>Interships: Google Cloud Computing Internship</h3>
 <h4>Languages:C+,C++,Java,Python,</h4>
 <h5>General Interest:Fighting games,Anime,Art, Music</h5>
 <h6>Favorite Song: https://www.youtube.com/watch?v=UE4QL507hkw </h6>
